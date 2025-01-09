@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning Machine Learning and its applications<br>👯 I’m hoping to collaborate on ML projects<br>🤝 I’m looking for various communities in Machine Learning<br>🌱 I’m willing to implement more and more knowledge that I have<br>⚡ Fun fact: Like to implement programming knowledge but dealing with more and more problem solving currently.<br>🕶️ Side Hustle : Part time Wordpress website designer.
+🔭 I’m currently Learning Machine Learning and its applications<br>👯 I’m hoping to collaborate on ML projects<br>🤝 I’m looking for various communities in Machine Learning<br>🌱 I’m willing to implement more and more knowledge that I have<br>⚡ Fun fact: Like to implement programming knowledge but dealing with more and more problem solving currently.<br>🕶️ Side Hustle: Part time Wordpress website designer.
 
 
 ## 🌐 Socials:
