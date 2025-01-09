@@ -1,11 +1,11 @@
 
 # Hi, I'm Shashank! 👋
 ## 🚀 About Me
-I'm a final-year B.Tech student, diving deep into the fascinating world of Artificial Intelligence and Machine Learning. My passion lies in using data and technology to solve real-world problems and create meaningful impact. 🚀
+I'm a final-year B.Tech student, diving deep into the fascinating world of Artificial Intelligence and Machine Learning. My passion lies in using data and technology to solve real-world problems and create meaningful impact.🚀
 
 From building predictive models to exploring innovative algorithms, I thrive on hands-on experience with Python, SQL, and a robust tech stack. Whether it's crafting intuitive data visualizations or unlocking insights through analytics, I love turning complex data into powerful stories.
 
-Excited to collaborate on groundbreaking AI projects and push the limits of what's possible! Let’s connect! 😊✨
+Excited to collaborate on groundbreaking AI projects and push the limits of what's possible! Let’s connect!😊✨
 
 
 ## 🔗 Links
